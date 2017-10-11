@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ChristopherAssign1</string>
+
+    <string name="title_name">PapaPizza!</string>
+    <string name="detail_name">Choose your Pizza!</string>
+    <string name="order_name">Now customize it!</string>
+    <string name="con_name">Order Confirmation</string>
+    <string name="receipt_name">Your Receipt</string>
+
+    <string name="exit_name">Exit</string>
+    <string name="enter_name">Enter</string>
+    <string name="back_name">Back</string>
+    <string name="next_name">Next</string>
+    <string name="pay_name">Pay</string>
+    <string name="confirm_name">Confirm</string>
+    <string name="reset_name">Clear</string>
+    <string name="total_name">Total</string>
+    <string name="orderNow_name">Order now</string>
+    <string name="main">Main Menu</string>
+
+
+    <string name="firstName_name">FirstName</string>
+    <string name="lastName_name">LastName</string>
+    <string name="address_name">Address</string>
+    <string name="credit_name">Credit</string>
+    <string name="name_address">Name and Address: </string>
+
+    <string name="total">Your total</string>
+    <string name="regularpizza">Regular $5</string>
+    <string name="largepizza">Large $10</string>
+
+    <string name="hint_first">FirstName</string>
+    <string name="hint_last">LastName</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_credit">Credit Card Number</string>
+
+    <string name="chicken_name">$3 Chicken</string>
+    <string name="bacon_name">$2 Bacon</string>
+    <string name="beef_name">$2 Beef</string>
+
+    <string name="cheese_name">$1 Cheese</string>
+    <string name="pepper_name">$1 Green Pepper</string>
+    <string name="onion_name">$1 Onion</string>
+    <string name="barName">Christopher</string>
+    <string name="barSite">Setup AppBar</string>
+    <string name="barHelp">Help</string>
+    <string name="barPizza">Pizza</string>
+
+
+</resources>
